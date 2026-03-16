@@ -33,7 +33,7 @@ I am actively seeking **AI/ML Engineer and Software Development Engineer (SDE)**
 - Built a **production-grade Retrieval-Augmented Generation (RAG) system** for semantic search and question answering over long-form academic research papers.  
 - Designed a robust **document ingestion pipeline** with section-aware chunking and metadata-preserving vector storage.  
 - Integrated **Groq LLaMA-3 (70B)** to generate grounded responses and significantly reduce hallucinations.  
-🔗 GitHub: https://github.com/MrVarshu  
+🔗 GitHub: https://github.com/MrVarsh 
 
 ---
 
@@ -42,7 +42,7 @@ I am actively seeking **AI/ML Engineer and Software Development Engineer (SDE)**
 - Developed an **end-to-end ML pipeline** to predict employee attrition using structured HR data with class imbalance handling.  
 - Achieved **ROC-AUC ≈ 0.90** through model tuning and feature optimization.  
 - Applied **explainable AI (SHAP, LIME)** to surface key attrition drivers and improve model transparency.  
-🔗 GitHub: https://github.com/MrVarshu  
+🔗 GitHub: https://github.com/MrVarsh  
 
 ---
 
@@ -51,7 +51,7 @@ I am actively seeking **AI/ML Engineer and Software Development Engineer (SDE)**
 - Implemented a **ReAct (Reasoning + Acting) LLM agent** capable of decomposing queries into iterative thought-action-observation cycles.  
 - Enabled **dynamic tool selection** (web search, weather APIs) to improve factual accuracy for real-time queries.  
 - Exposed **reasoning traces** to enhance interpretability and debuggability of LLM decisions.  
-🔗 GitHub: https://github.com/MrVarshu  
+🔗 GitHub: https://github.com/MrVarsh  
 
 ---
 
@@ -60,7 +60,7 @@ I am actively seeking **AI/ML Engineer and Software Development Engineer (SDE)**
 - Built a **secure full-stack web application** supporting authentication, gameplay logic, and administrative analytics.  
 - Designed and implemented **RESTful APIs** with JWT-based authentication and role-based access control.  
 - Developed a responsive **React frontend** with persistent storage using MySQL and JPA/Hibernate.  
-🔗 GitHub: https://github.com/MrVarshu  
+🔗 GitHub: https://github.com/MrVarsh  
 
 ---
 
@@ -68,7 +68,7 @@ I am actively seeking **AI/ML Engineer and Software Development Engineer (SDE)**
 
 - **Portfolio:** https://www.varshithpuppireddy.me  
 - **LinkedIn:** https://www.linkedin.com/in/varshith-puppireddy  
-- **GitHub:** https://github.com/MrVarshu  
+- **GitHub:** https://github.com/MrVarsh  
 - **Email:** puppireddyvarshith@gmail.com  
 
 ---
